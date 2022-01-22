@@ -12,7 +12,7 @@ public class Main {
                 System.out.println(i);
             }
             catch (Exception err){
-
+                err.printStackTrace();
             }
 
         }
